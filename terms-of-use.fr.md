@@ -1,7 +1,7 @@
 # DIYSCIP - Mon Spa Jacuzzi
 ## Conditions d'utilisation - Mai 2020.
 
-En utilisant l'application DIYSCIP/Mon Spa Jacuzzi (ci-après denommé "les Services"), vous devez en accepter les conditions d'utilisation. Concernant la confidentialité et l'usage de vos données, veuillez vous référer à la notice data-privacy.
+En utilisant l'application DIYSCIP/Mon Spa Jacuzzi (ci-après denommé "les Services"), vous devez en accepter les conditions d'utilisation. Concernant la confidentialité et l'usage de vos données, veuillez vous référer à la notice [data-privacy](https://github.com/YorffoeG/diyscip-home/blob/master/data-privacy.fr.md).
 
 Pour toutes questions ou commentaires, vous pouvez nous contacter par email à l'adresse: diyscip@runrunweb.net.
 
