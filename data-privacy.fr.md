@@ -3,7 +3,7 @@
 
 Cette politique de confidentialité décrit comment nous recueillons, traitons, conservons et partageons vos informations.
 
-En utilisant l'application DIYSCIP/Mon Spa Jacuzzi (ci-après denommé "les Services"), vous devez en accepter la politique de confidentialité. Concernant les conditions d'utilisation, veuillez vous référer à la notice term-of-use.
+En utilisant l'application DIYSCIP/Mon Spa Jacuzzi (ci-après denommé "les Services"), vous devez en accepter la politique de confidentialité. Concernant les conditions d'utilisation, veuillez vous référer à la notice [term-of-use](https://github.com/YorffoeG/diyscip-home/blob/master/terms-of-use.fr.md).
 
 Pour toutes questions ou commentaires, vous pouvez nous contacter par email à l'adresse: diyscip@runrunweb.net.
 
